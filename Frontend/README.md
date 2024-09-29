@@ -6,6 +6,7 @@ Implimented using the native HTML5 drag and drop API, JS FileReader API and brow
 ## Getting Started
 
 - Ensure you cd into /Frontend:
+- Make sure that your venv is activated AKA run: `myenv\Scripts\activate` make sure to replace myenv with your venv name
 - Run the following
 
 ```bash
