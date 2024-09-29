@@ -2,7 +2,7 @@
 
 This is a flask backend with a custom model with a simple nextjs frontend that allows you to drag and drop or select files for upload for maize tassel detection.
 
-More detail can be found in [Backend Readme](https://github.com/RelativelyFine/Inferencing-Interface/blob/main/Backend/README.md) and [Frontend Readme](https://github.com/RelativelyFine/Inferencing-Interface/blob/main/Frontend/README.md)
+More detail can be found in [Backend Readme](https://github.com/asns2001/Interface/blob/main/Backend/README.md) and [Frontend Readme](https://github.com/asns2001/Interface/blob/main/Frontend/README.md)
 
 ## Getting Started
 - You need python, pip and git installed on your computer. 
