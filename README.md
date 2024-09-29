@@ -7,8 +7,8 @@ More detail can be found in [Backend Readme](https://github.com/RelativelyFine/I
 ## Getting Started
 - You need python, pip and git installed on your computer. 
 - Clone this repository
-- Setup the backend via [Backend Readme](https://github.com/RelativelyFine/Inferencing-Interface/blob/main/Backend/README.md)
-- Setup the frontend via [Frontend Readme](https://github.com/RelativelyFine/Inferencing-Interface/blob/main/Frontend/README.md)
+- Setup the backend via [Backend Readme](https://github.com/asns2001/Interface/blob/main/Backend/README.md)
+- Setup the frontend via [Frontend Readme](https://github.com/asns2001/Interface/blob/main/Frontend/README.md)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to interact with the app.
 
