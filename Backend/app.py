@@ -30,6 +30,11 @@ def upload_file():
 
     current_time = now.strftime("%Y-%m-%d-%H-%M-%S")
 
+    # Ensure the 'uploads' directory exists
+    uploads_dir = 'uploads'
+    if not os.path.exists(uploads_dir):
+        os.mkdir(uploads_dir)
+
     os.mkdir(os.path.join('uploads', current_time))
 
     for file in request.files.getlist('file'):
